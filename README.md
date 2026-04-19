@@ -1,4 +1,4 @@
-Tinkersaur-X
+TinkersaurX.   The X stands for experimental!
 
 A place-holder for a set of software tools and hardware notes to support future hobby projects.    
 
