@@ -13,6 +13,15 @@ Youtube Projects
         - https://www.youtube.com/watch?v=mfsiq9Me8Sk&t=21s
         - The video overview on youtube has all of my notes and pictures for the project.
 
+
+Steam Projects
+
+   * Wrote a Neverwinter Nights Enhanced Edition D&D style game module
+        - Steam:  https://steamcommunity.com/sharedfiles/filedetails/?l=dutch&id=3393272837
+        - Youtube:  (Cheat part 1) https://www.youtube.com/watch?v=1jqKCrOmebg
+        - Youtube:  (Cheat part 2) https://www.youtube.com/watch?v=F6nTH9Xj7nc
+          
+
 Versions:
 
 tinkersaurX - 4/4/2026 - Initial Check in.   Just setting up Git.
