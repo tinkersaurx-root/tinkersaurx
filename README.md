@@ -24,6 +24,7 @@ Steam Projects
 
 
 Electronics:
+
      * Thinking about designing a board that will create a 4 output remote controlled high precision power supply to support
        some upcoming projects.    Bench power supplies are so expensive.   I'd like to make something that runs off a $30 
        low end 12V, 10A power supply for under $100.    Just a thought at the moment...
