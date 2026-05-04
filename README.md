@@ -22,7 +22,6 @@ Steam Projects
         - Youtube:  (Cheat part 2) https://www.youtube.com/watch?v=F6nTH9Xj7nc
           
 
-
 Electronics:
 
      * Thinking about designing a board that will create a 4 output remote controlled high 
@@ -32,6 +31,6 @@ Electronics:
          - This company may have already done what I was thinking about doing.   I don't 
            know how well their instruments work but they are close to a good price point
            to be able to buying some of it to try over time.   
-             * https://www.fnirsi.com/products/dps-150?variant=46011574550746
+             - Fnirsi.com:  https://www.fnirsi.com/products/dps-150?variant=46011574550746
          
        
