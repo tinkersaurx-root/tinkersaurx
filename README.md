@@ -33,5 +33,5 @@ Electronics:
   know how well their instruments work but they are close to a good price point
   to be able to buying some of it to try over time.   
   - Fnirsi.com:  https://www.fnirsi.com/products/dps-150?variant=46011574550746
-         
+    They are still 4x as expensive as I would like and not quite as accurate though.       
        
